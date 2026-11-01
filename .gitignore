@@ -1,0 +1,16 @@
+
+# Local environment and generated files
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite3
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+target/
+*.class
+.DS_Store
